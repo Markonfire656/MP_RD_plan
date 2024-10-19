@@ -11,6 +11,23 @@ Each week will contain the following sections:
 
 ---
 
+Stay tuned for updates each week and happy coding!
+
+## Week 0
+
+### Topic: OOP & GIT
+
+### Problem: 
+- [Task](https://github.com/PoeQulta/MP_RD_plan/tree/main/GameDev/OOP_Task.pdf)
+### Resources:
+- **ENG**: 
+    - [OOP](https://medium.com/@Adekola_Olawale/beginners-guide-to-object-oriented-programming-a94601ea2fbd)
+    - [GIT] (https://poequlta.github.io/git-guide/)
+- **AR**: 
+    - No Arabic Resources, if you need help contact us through the R&D Group chat
+
+---
+
 ## Week 0
 
 ### Topic: Python Refresher
@@ -26,18 +43,5 @@ Each week will contain the following sections:
 
 ---
 
-## Week 1
 
-### Topic: TBD
-
-### Problem:
-- TBD
-
-### Resources:
-- **ENG**: TBD
-- **AR**: TBD
-
----
-
-Stay tuned for updates each week and happy coding!
 
