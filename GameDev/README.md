@@ -22,7 +22,7 @@ Stay tuned for updates each week and happy coding!
 ### Resources:
 - **ENG**: 
     - [OOP](https://medium.com/@Adekola_Olawale/beginners-guide-to-object-oriented-programming-a94601ea2fbd)
-    - [GIT] (https://poequlta.github.io/git-guide/)
+    - [GIT](https://poequlta.github.io/git-guide/)
 - **AR**: 
     - No Arabic Resources, if you need help contact us through the R&D Group chat
 
