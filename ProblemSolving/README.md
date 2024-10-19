@@ -11,6 +11,8 @@ Each week will contain the following sections:
 
 ---
 
+Stay tuned for updates each week and happy coding!
+
 ## Week 1
 
 ### Topic: Loops & Arrays
@@ -53,17 +55,4 @@ Each week will contain the following sections:
   - [How to start using codeforces (Arabic)](https://www.youtube.com/watch?v=bEbNYkEphL4)
 
 ---
-## Week 2
 
-### Topic: TBD
-
-### Problems:
-- TBD
-
-### Resources:
-- **ENG**: TBD
-- **AR**: TBD
-
----
-
-Stay tuned for updates each week and happy coding!
