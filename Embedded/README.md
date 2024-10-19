@@ -18,6 +18,7 @@ Stay tuned for updates each week and happy learning!
 
 ### Problem: 
 - [Task](https://github.com/PoeQulta/MP_RD_plan/tree/main/Embedded/PCB_DESIGN_TASK.pdf)
+- for task: [Module Board Example](https://makerselectronics.com/product/l293d-2-channel-dc-motor-driver-module)
 
 ### Resources:
 - **ENG**:
