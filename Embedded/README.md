@@ -10,6 +10,27 @@ Each week will contain the following sections:
 - **Resources**: Helpful links and materials to assist you with the week's topic.
 
 ---
+Stay tuned for updates each week and happy learning!
+
+## Week 1
+
+### Topic: Schematic & PCB design
+
+### Problem: 
+- [Task](https://github.com/PoeQulta/MP_RD_plan/tree/main/Embedded/PCB_DESIGN_TASK.pdf)
+
+### Resources:
+- **ENG**:
+  - [Schematic Tips](https://www.youtube.com/watch?v=ywBPm7TMpfk)
+  - [PCB Bible](https://www.scs.stanford.edu/~zyedidia/docs/pcb/pcb_tutorial.pdf)
+  - [Traces](https://www.youtube.com/watch?v=xEVntmYLARw)
+  - [Vias](https://www.youtube.com/watch?v=WPT96w3eLAM&list=PLXSyc11qLa1YhVCZ5xWPuPsE5MkgEy5TF&index=26)
+- **AR**:
+  - No Arabic Resources, if you need help contact us through the R&D Group chat
+---
+
+
+
 
 ## Week 0
 
@@ -30,17 +51,4 @@ Each week will contain the following sections:
 
 ---
 
-## Week 1
 
-### Topic: TBD
-
-### Problem:
-- TBD
-
-### Resources:
-- **ENG**: TBD
-- **AR**: TBD
-
----
-
-Stay tuned for updates each week and happy learning!
