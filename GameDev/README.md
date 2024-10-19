@@ -13,7 +13,7 @@ Each week will contain the following sections:
 
 Stay tuned for updates each week and happy coding!
 
-## Week 0
+## Week 1
 
 ### Topic: OOP & GIT
 
