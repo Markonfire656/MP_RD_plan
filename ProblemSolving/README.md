@@ -11,6 +11,31 @@ Each week will contain the following sections:
 
 ---
 
+## Week 1
+
+### Topic: Loops & Arrays
+
+### Problems: 
+#### Loops
+- [PUM](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/V)
+- [Shape3](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W)
+- [CVT2DEC](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X)
+- [EasyFib](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y)
+- [Three Nums](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z)
+#### Arrays
+- [Freq Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/V)
+- [Mirror](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/W)
+- [8-Neighbor](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/X)
+- [RangeSum](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y)
+- [BinarySearch](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z)
+### Resources:
+- **ENG**: 
+  - [Loops](https://pastelink.net/qsmrh14m)
+  - Arrays: To be discussed
+- **AR**:
+  - [Loops](https://pastelink.net/akxelx59)
+---
+
 ## Week 0
 
 ### Topic: Warm-up
@@ -28,8 +53,7 @@ Each week will contain the following sections:
   - [How to start using codeforces (Arabic)](https://www.youtube.com/watch?v=bEbNYkEphL4)
 
 ---
-
-## Week 1
+## Week 2
 
 ### Topic: TBD
 
