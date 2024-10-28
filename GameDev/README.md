@@ -12,6 +12,22 @@ Each week will contain the following sections:
 ---
 
 Stay tuned for updates each week and happy coding!
+## Week 2
+
+### Topic: Flappy Bird Clone
+
+### Problem: 
+- [Task](https://github.com/PoeQulta/MP_RD_plan/tree/main/GameDev/Task_2/Task2.pdf)
+- [Assets (feel free to use your own)](https://github.com/PoeQulta/MP_RD_plan/tree/main/GameDev/Task_2/assets)
+- [FlappyBird](https://flappybird.io/)
+### Resources:
+- **ENG**: 
+    - [Pygame Primer](https://realpython.com/pygame-a-primer/)
+    - [Pygame Video Tutorial](https://www.youtube.com/playlist?list=PL30AETbxgR-feEfqwQxZ-_8s0fcvMQgqJ)
+- **AR**: 
+    - No Arabic Resources, if you need help contact us through the R&D Group chat
+
+---
 
 ## Week 1
 
